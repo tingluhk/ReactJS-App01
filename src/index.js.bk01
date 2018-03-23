@@ -6,3 +6,9 @@ var App = React.createElement('hi',null,'hello world');
 
 // take react element 'App' and display it on page on DOM.
 ReactDOM.render(App);
+
+
+
+
+
+
