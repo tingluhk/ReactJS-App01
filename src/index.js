@@ -7,5 +7,5 @@
 // ReactDOM.render(<App />, document.getElementById('root'));
 // registerServiceWorker();
 
-// In react if you wwant to do the same thing, first need to create a react element of type h1 with content 'hello world'
+// In react if you wwant to do the same thing, first need to create a react element of type h1 with content 'hello world' 2
 
